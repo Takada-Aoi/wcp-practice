@@ -2,7 +2,7 @@
 public class Chapter04 {
 	
 	public static void main(String[] args) {
-		final int LUCKY_NUMBER = 2;
+		final int LUCKY_NUMBER = 6;
 		String str1;
 		str1 = "Aoi";
 		System.out.println(str1);
